@@ -18,6 +18,7 @@ You can check me out on [𝕏 (formerly known as Twitter)](https://x.com/thedahu
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
 <!--
 **dahunsi-dami/dahunsi-dami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
