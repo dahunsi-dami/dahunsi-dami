@@ -6,7 +6,7 @@ I recently completed the ALX Africa Software Engineering program (powered by Hol
 
 You can check me out at x.com/thedahunsidavid or linkedin.com/in/ogundahunsi-damilare/.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahunsi-dami)](https://github.com/anuraghazra/github-readme-stats)
+[![Dami's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahunsi-dami)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dahunsi-dami/dahunsi-dami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
