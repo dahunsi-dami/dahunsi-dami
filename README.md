@@ -6,6 +6,11 @@ I recently completed the ALX Africa Software Engineering program, *powered by Ho
 
 You can check me out on [𝕏 (formerly known as Twitter)](https://x.com/thedahunsidavid) or [LinkedIn](https://linkedin.com/in/ogundahunsi-damilare/).
 
+---
+
+### Languages and Tools
+
+
 <!--
 **dahunsi-dami/dahunsi-dami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
