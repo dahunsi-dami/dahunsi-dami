@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Damilare, a software engineer from Nigeria. I recently completed the ALX Africa Software Engineering program (powered by Holberton Inc.), where I built many projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, and education. You can check me out on 𝕏 at x.com/thedahunsidavid or linkedin.com/in/ogundahunsi-damilare/.
+I'm Damilare, a software engineer from Nigeria. I recently completed the ALX Africa Software Engineering program (powered by Holberton Inc.), where I built many projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, and education. You can check me out at x.com/thedahunsidavid or linkedin.com/in/ogundahunsi-damilare/.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahunsi-dami)](https://github.com/anuraghazra/github-readme-stats)
 
