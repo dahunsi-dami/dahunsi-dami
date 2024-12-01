@@ -4,7 +4,7 @@
 
 I recently completed the ALX Africa Software Engineering program, *powered by Holberton Inc.*, where I built some projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, and education.
 
-You can check me out at x.com/thedahunsidavid or linkedin.com/in/ogundahunsi-damilare/.
+You can check me out on [𝕏 (formerly known as Twitter)] (https://x.com/thedahunsidavid) or [LinkedIn] (https://linkedin.com/in/ogundahunsi-damilare/).
 
 <!--
 **dahunsi-dami/dahunsi-dami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
