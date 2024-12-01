@@ -8,7 +8,7 @@ You can check me out on [𝕏 (formerly known as Twitter)](https://x.com/thedahu
 <br />
 <br />
 
-***
+---
 
 ### 🧰 Languages and Tools
 
