@@ -2,7 +2,7 @@
 
 I'm Damilare, a software engineer from Nigeria.
 
-I recently completed the ALX Africa Software Engineering program (powered by Holberton Inc.), where I built some projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, and education.
+I recently completed the ALX Africa Software Engineering program <*powered by Holberton Inc.*/>, where I built some projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, and education.
 
 You can check me out at x.com/thedahunsidavid or linkedin.com/in/ogundahunsi-damilare/.
 
