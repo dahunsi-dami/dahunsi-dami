@@ -5,8 +5,10 @@
 I recently completed the ALX Africa Software Engineering program, *powered by Holberton Inc.*, where I built some projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, music, and education.
 
 You can check me out on [𝕏 (formerly known as Twitter)](https://x.com/thedahunsidavid) or [LinkedIn](https://linkedin.com/in/ogundahunsi-damilare/).
+<br />
+<br />
 
-
+---
 
 ### 🧰 Languages and Tools
 
@@ -19,8 +21,9 @@ You can check me out on [𝕏 (formerly known as Twitter)](https://x.com/thedahu
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+<br />
 
-
+---
 
 ### 📊 Stats
 
