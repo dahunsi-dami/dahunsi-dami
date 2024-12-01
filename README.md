@@ -6,6 +6,7 @@ I recently completed the ALX Africa Software Engineering program, *powered by Ho
 
 You can check me out on [𝕏 (formerly known as Twitter)](https://x.com/thedahunsidavid) or [LinkedIn](https://linkedin.com/in/ogundahunsi-damilare/).
 <br />
+<br />
 
 ---
 
