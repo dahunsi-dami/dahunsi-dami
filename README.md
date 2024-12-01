@@ -2,7 +2,7 @@
 
 **`Software engineer (ex-full time musician)`**
 
-I recently completed the ALX Africa Software Engineering program, *powered by Holberton Inc.*, where I built some projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, and education.
+I recently completed the ALX Africa Software Engineering program, *powered by Holberton Inc.*, where I built some projects. I enjoy programming and exploring how software intersects with other fields like finance, healthcare, music, and education.
 
 You can check me out on [𝕏 (formerly known as Twitter)](https://x.com/thedahunsidavid) or [LinkedIn](https://linkedin.com/in/ogundahunsi-damilare/).
 
