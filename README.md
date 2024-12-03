@@ -1,4 +1,4 @@
-# ♮ Damilare 'Dahunsi
+# Damilare 'Dahunsi
 
 **`Software engineer (ex-full-time musician)`**
 
